@@ -1,6 +1,7 @@
-# Send mail after the job
+# send.mail : Send an e-mail in R
+# JAVA SE is required
 
-library(mailR) # require JAVA SE
+library(mailR) 
 from = "Jun.Mac@gmail.com"
 to = "Jun <songjun0525@gmail.com>"
 subject = "Work done"
