@@ -1,4 +1,4 @@
-# Get OS information in R
+# getOS.R   : Get OS information in R
 # Sometimes, windows need to have path to Rtools for RCPP
 
 get_os <- function(){
