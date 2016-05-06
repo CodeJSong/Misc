@@ -1,4 +1,4 @@
-# Roster Boost  :  Add more information to PENN STATE ANGEL roster file in R
+# Roster Boost  :  Add more information to PENN STATE ANGEL roster using crawling PSU SEARCH in R
 #install.packages("XML")
 library(XML)
 
