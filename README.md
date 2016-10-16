@@ -2,6 +2,9 @@
 Miscellaneous Files
 
 ## R codes 
+### stat_job
+Collect statistics job postings in UFL Statistics Job and MathJobs.Org
+
 ### Enrich Roster 
 #### Add more information to roster of ANGEL - for Penn State Instuctor
 1. Export Roster from ANGEL
