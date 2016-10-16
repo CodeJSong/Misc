@@ -9,7 +9,6 @@
 #    - amstat : http://jobs.amstat.org/jobs
 #    - IMS : http://jobs.imstat.org/jobseeker/search/results/
 ################################################################
-
 stat.job <- function(where="ufl", maxpage=7, fromtoday=20){
   # collect data from "where" upto page no."maxpage" until the post "fromtoday" days ago
   today <- Sys.Date()
